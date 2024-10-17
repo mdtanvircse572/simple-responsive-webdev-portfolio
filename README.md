@@ -5,7 +5,5 @@
 <p>Which think i add here are:</p>
 <ol>
   <li>Make it responsive for Phone and Tablet</li>
-  <li>Add workable button on it </li>
-  <li>I will update it later</li>
 </ol>
 <h4>Thank You</h4>
